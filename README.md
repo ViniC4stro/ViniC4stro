@@ -1,9 +1,9 @@
-<h1 align="center">Hi ??, I'm Vinícius</h1>
+<h1 align="center">Hi 👋, I'm Vinícius</h1>
 <h3 align="center">A student developer from Brazil!</h3>
 
-- ?? I’m currently learning **Dart, JavaScript**
+- 🌱 I’m currently learning **Dart, JavaScript**
 
-- ?? How to reach me **vinicius.castro2104@gmail.com**
+- 📫 How to reach me **vinicius.castro2104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
