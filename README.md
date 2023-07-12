@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Dart, JavaScript**
 
-- 📫 How to reach me **vinicius.castro2104@gmail.com**
+- 📫 How to reach me **vinicius.castro21@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
